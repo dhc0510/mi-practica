@@ -1,0 +1,39 @@
+[33mcommit a34ea48839dfe5de13775d941a5f1659817eb26b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Merge: fd78909 edd5fde
+Author: Diego Herrera Chaves <dh746925@gmail.com>
+Date:   Fri Aug 2 17:38:16 2024 -0600
+
+    Merge branch 'feature/filter-function-implementation'
+    Filter function implementation
+
+[33mcommit edd5fde315bd8bc285ce10f6606bd87fd27ad3e6[m[33m ([m[1;32mfeature/filter-function-implementation[m[33m)[m
+Author: Diego Herrera Chaves <dh746925@gmail.com>
+Date:   Fri Aug 2 17:31:38 2024 -0600
+
+    Adding the filter function
+
+[33mcommit fd78909b3d05fa98644f65521ef0a6f6561a66cd[m
+Author: Diego Herrera Chaves <dh746925@gmail.com>
+Date:   Fri Aug 2 16:48:03 2024 -0600
+
+    First content in index
+
+[33mcommit 59fb062c8f6e15f4e5847fda294f633bd369ab67[m
+Author: Diego Herrera Chaves <dh746925@gmail.com>
+Date:   Fri Aug 2 16:45:03 2024 -0600
+
+    Initial commit with HTML,CSS and JS files
+
+[33mcommit 21e1ebdea2d7a16cc6a3cde0427e763ec15bf611[m
+Author: Diego Herrera Chaves <dh746925@gmail.com>
+Date:   Fri Aug 2 16:42:28 2024 -0600
+
+    Revert "Agregado de archivos base"
+    
+    This reverts commit c3b34cbdbe188deed40b54baf853fefa24c58c13.
+
+[33mcommit c3b34cbdbe188deed40b54baf853fefa24c58c13[m
+Author: Diego Herrera Chaves <dh746925@gmail.com>
+Date:   Thu Aug 1 21:49:10 2024 -0600
+
+    Agregado de archivos base
